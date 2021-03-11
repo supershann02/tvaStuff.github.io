@@ -6,3 +6,31 @@
 body {
     background: black;
 }
+
+h1 {
+    color: whitesmoke;
+}
+
+#wow {
+    color: black;
+    background: rgb(5, 129, 151);
+    font-size: 18px;
+    border-radius: 25px;
+}
+
+#introduction {
+    background: rgb(17, 98, 190);
+    color: black;
+    font-size: 18px;
+    border-radius: 25px;
+}
+
+.wowImage {
+    width: 90%;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
