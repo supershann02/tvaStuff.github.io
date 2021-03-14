@@ -11,10 +11,6 @@ h1 {
     color: whitesmoke;
 }
 
-p {
-    color: black;
-}
-
 #wow {
     color: black;
     background: rgb(5, 129, 151);
@@ -40,20 +36,20 @@ p {
  }
 
  #tvaTumblr {
-     background: rgb(3, 63, 3);
-     color: black;
+     background: rgb(37, 2, 48);
+     color: whitesmoke;
      font-size: 18px;
      border-radius: 15px;
      font-weight: 400;
  }
 
  .tumblrLogo {
-     width: 50%;
+     width: 40%;
  }
 
  .tvaButton {
-     background: rgb(38, 3, 58);
-     color: black;
+     background: rgb(3, 58, 44);
+     color: aliceblue;
      font-weight: bold;
      border: solid black;
  }
@@ -65,7 +61,7 @@ p {
  }
 
  #marvelWiki{
-    background: rgb(41, 3, 41);
+    background: rgb(7, 110, 80);
     border-radius: 15px;
     color: black;
  }
@@ -75,7 +71,6 @@ p {
  }
 
  .bold {
-     color: black;
      font-weight: bold;
      font-size: 20px;
  }
@@ -88,7 +83,7 @@ p {
 
  .lokiButton:hover {
      color: white;
-     box-shadow: 2px 2px 2px 2px purple;
+     box-shadow: 2px 2px 2px 2px rgb(235, 212, 12);
      transition: .5s;
  }
 
@@ -102,4 +97,29 @@ p {
     color: white;
     box-shadow: 2px 2px 2px 2px rgb(3, 78, 78);
     transition: .5s;
+ }
+
+ #mcuWiki {
+     background: rgb(8, 36, 6);
+     border-radius: 15px;
+     color: white;
+ }
+
+ .mcuLogo {
+     width: 60%;
+ }
+
+ #lokiSeries {
+     background: rgb(47, 107, 62);
+     color: black;
+     border-radius: 15px;
+ }
+
+ .lokiLogo {
+     width: 50%;
+ }
+
+ #lokiTrailer {
+     background: rgb(3, 3, 87);
+     border-radius: 25px;
  }
