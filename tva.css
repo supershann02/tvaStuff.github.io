@@ -1,0 +1,45 @@
+body {
+    background:black;
+}
+
+p {
+    color: white;
+}
+
+.jumbotron {
+    background: teal;
+}
+
+h1 {
+    color: black;
+}
+
+.mainPageBtn {
+    color: white;
+    background: rgb(41, 2, 41);
+}
+
+.mainPageBtn:hover {
+    color: white;
+    box-shadow: 2px 2px 2px 2px rgb(5, 85, 85);
+}
+
+.header {
+    border-radius: 10px;
+    background: yellowgreen;
+}
+
+.contents {
+    background: rgb(0, 3, 158);
+    border-radius: 5px;
+    border: solid 2px lightskyblue;
+}
+
+.contents:hover {
+    background: lightskyblue;
+    transition: 0.5s;
+}
+
+.guideHeader {
+    color: black;
+}
