@@ -9,6 +9,8 @@ body {
 
 h1 {
     color: whitesmoke;
+    font-family: 'Passion One', cursive;
+    font-size: 60px;
 }
 
 #wow {
@@ -35,6 +37,10 @@ h1 {
     margin-right: auto;
  }
 
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
  #tvaTumblr {
      background: rgb(37, 2, 48);
      color: whitesmoke;
@@ -51,6 +57,7 @@ h1 {
      background: rgb(3, 58, 44);
      color: aliceblue;
      font-weight: bold;
+     font-family: 'Rubik', sans-serif;
      border: solid black;
  }
 
@@ -73,12 +80,14 @@ h1 {
  .bold {
      font-weight: bold;
      font-size: 20px;
+     font-family: 'Rubik', sans-serif;
  }
 
  .lokiButton {
      background: yellow;
      color: black;
      font-weight: bold;
+     font-family: 'Rubik', sans-serif;
  }
 
  .lokiButton:hover {
@@ -91,6 +100,7 @@ h1 {
      background: teal;
      color: black;
      font-weight: bold;
+     font-family: 'Rubik', sans-serif;
  }
 
  .timeButton:hover {
