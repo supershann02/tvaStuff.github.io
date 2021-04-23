@@ -85,12 +85,24 @@ a:hover {
 .subTab {
     background:rgb(20, 240, 240);
     color: rgb(4, 5, 44);
-    width: 30%;
+    width: 40%;
     border-radius: 30px;
-    border: solid rgb(4, 5, 44)
+    border: solid rgb(0, 3, 158);
 }
 
 .subTab:hover {
     background:rgb(136, 236, 161);
     transition: .5s;
+}
+
+.firstTab {
+    margin-bottom: -11px;
+}
+
+.secondTab {
+    margin-bottom: -11px;
+}
+
+.thirdTab {
+    margin-bottom: -8px;
 }
