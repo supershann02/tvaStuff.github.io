@@ -95,11 +95,7 @@ a:hover {
     transition: .5s;
 }
 
-.firstTab {
-    margin-bottom: -11px;
-}
-
-.secondTab {
+.tabMargin {
     margin-bottom: -11px;
 }
 
