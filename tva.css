@@ -131,3 +131,76 @@ a:hover {
     color: rgb(247, 181, 58);
     font-weight: bold;
 }
+
+.headerTab {
+     margin-top: 8px;
+}
+
+.header1 {
+    font-size: 22px;
+    color: black;
+    font-weight: bold;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+/* Consider whether the dates of each post are needed */
+/* Think about background colors more */
+
+.subheader1 {
+    font-size: 16px;
+    color: black;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.hexPosts1 {
+    background: rgb(121, 187, 165);
+    border-radius: 5px;
+    /* Probably will add a border */
+}
+
+
+.subdivision1 {
+    font-weight: bold;
+    color: rgb(4, 5, 44);
+}
+
+.arrow1 {
+    color: rgb(19, 32, 27);
+    font-weight: bold;
+}
+
+.answer1 {
+    color: rgb(4, 5, 44);
+}
+
+.hexPosts2 {
+    background: rgb(3, 48, 34);
+    border-radius: 5px;
+}
+
+.header2
+{
+    font-size: 22px;
+    color: aliceblue;
+    font-weight: bold;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.subheader2 {
+    font-size: 16px;
+    color: aliceblue;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.subdivision2 {
+    font-weight: bold;
+    color: rgb(195, 208, 245);
+}
+
+.arrow2 {
+    color: rgb(192, 165, 209);
+    font-weight: bold;
+}
+
+.answer2 {
+    color: rgb(195, 208, 245);
+}
