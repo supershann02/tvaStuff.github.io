@@ -204,3 +204,8 @@ a:hover {
 .answer2 {
     color: rgb(195, 208, 245);
 }
+
+#wetLoki {
+    width: 35%; 
+    /* Fix the formatting */
+}
