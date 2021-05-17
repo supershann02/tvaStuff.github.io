@@ -1,0 +1,140 @@
+.jumbotron {
+    background: rgb(211, 11, 11);
+    color: black;
+}
+
+body {
+    background: black;
+}
+
+h1 {
+    color: whitesmoke;
+    font-family: 'Passion One', cursive;
+    font-size: 60px;
+}
+
+#wow {
+    color: black;
+    background: rgb(5, 129, 151);
+    font-size: 18px;
+    border-radius: 25px;
+}
+
+#introduction {
+    background: rgb(17, 98, 190);
+    color: black;
+    font-size: 18px;
+    border-radius: 25px;
+}
+
+.wowImage {
+    width: 90%;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+ #tvaTumblr {
+     background: rgb(37, 2, 48);
+     color: whitesmoke;
+     font-size: 18px;
+     border-radius: 15px;
+     font-weight: 400;
+ }
+
+ .tumblrLogo {
+     width: 40%;
+ }
+
+ .tvaButton {
+     background: rgb(3, 58, 44);
+     color: aliceblue;
+     font-weight: bold;
+     font-family: 'Rubik', sans-serif;
+     border: solid black;
+ }
+
+ .tvaButton:hover {
+     color: white;
+     box-shadow: 2px 2px 2px 2px slategray;
+     transition: .5s;
+ }
+
+ #marvelWiki{
+    background: rgb(7, 110, 80);
+    border-radius: 15px;
+    color: black;
+ }
+
+ .marvelLogo {
+     width: 50%;
+ }
+
+ .bold {
+     font-weight: bold;
+     font-size: 20px;
+     font-family: 'Rubik', sans-serif;
+ }
+
+ .lokiButton {
+     background: yellow;
+     color: black;
+     font-weight: bold;
+     font-family: 'Rubik', sans-serif;
+ }
+
+ .lokiButton:hover {
+     color: white;
+     box-shadow: 2px 2px 2px 2px rgb(235, 212, 12);
+     transition: .5s;
+ }
+
+ .timeButton {
+     background: teal;
+     color: black;
+     font-weight: bold;
+     font-family: 'Rubik', sans-serif;
+ }
+
+ .timeButton:hover {
+    color: white;
+    box-shadow: 2px 2px 2px 2px rgb(3, 78, 78);
+    transition: .5s;
+ }
+
+ #mcuWiki {
+     background: rgb(8, 36, 6);
+     border-radius: 15px;
+     color: white;
+ }
+
+ .mcuLogo {
+     width: 60%;
+ }
+
+ #lokiSeries {
+     background: rgb(47, 107, 62);
+     color: black;
+     border-radius: 15px;
+ }
+
+ .lokiLogo {
+     width: 60%;
+ }
+
+ #lokiTrailer {
+     background: rgb(3, 3, 87);
+     border-radius: 25px;
+ }
+
+ #officialTrailer {
+     background: rgb(5, 17, 4);
+     border-radius: 25px;
+ }
