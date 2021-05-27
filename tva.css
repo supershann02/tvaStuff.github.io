@@ -154,7 +154,6 @@ a:hover {
 .hexPosts1 {
     background: rgb(121, 187, 165);
     border-radius: 5px;
-    /* Probably will add a border */
 }
 
 
@@ -208,4 +207,15 @@ a:hover {
 #wetLoki {
     width: 35%; 
     /* Fix the formatting */
+}
+
+.topbtn {
+    margin-top: 20px;
+    background: rgb(195, 208, 245);
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#byeLoki {
+    margin-top: 5px;
+    width: 55%;
 }
