@@ -138,3 +138,24 @@ p {
      background: rgb(5, 17, 4);
      border-radius: 25px;
  }
+
+ #clipsLink {
+     background: rgb(47, 5, 65);
+     border-radius: 25px;
+     color: white;
+     font-size: 25px;
+ }
+
+ .clipBtn {
+    background: teal;
+    font-weight: bold;
+    font-family: 'Rubik', sans-serif;
+    color: black;
+    margin-bottom: 10px;
+ }
+
+ .clipBtn:hover {
+     color: white;
+     box-shadow: 2px 2px 2px 2px rgb(15, 224, 224);
+     transition: 0.5s;
+ }
