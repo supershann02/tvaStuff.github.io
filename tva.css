@@ -2,10 +2,6 @@ body {
     background:black;
 }
 
-p {
-    color: white;
-}
-
 .jumbotron {
     background: teal;
 }
@@ -64,7 +60,7 @@ h1 {
 
 #hexInfo {
     background: rgb(18, 44, 25);
-    color: black;
+    color: white;
     font-size: 20px;
     border-radius: 15px;
     border: solid 5px rgb(33, 6, 77);
@@ -218,4 +214,35 @@ a:hover {
 #byeLoki {
     margin-top: 5px;
     width: 55%;
+}
+
+.baseIntro {
+    background: yellow;
+    border-radius: 70px;
+    width: 70%;
+}
+
+#baseInfo {
+    background: rgb(6, 185, 156);
+    color: black;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.codeIntro {
+   color: white; 
+}
+
+.baseChart {
+    width: 70%;
+}
+
+.baseLength {
+    color: rgb(19, 32, 27);
+    font-weight: bold;
+}
+
+.baseTranslate {
+    color:rgb(18, 44, 25);
+    font-weight: bold;
 }
