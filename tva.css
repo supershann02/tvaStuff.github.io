@@ -223,7 +223,7 @@ a:hover {
 }
 
 #baseInfo {
-    background: rgb(6, 185, 156);
+    background: rgb(4, 6, 128);
     color: black;
     font-size: 20px;
     border-radius: 15px;
@@ -238,11 +238,33 @@ a:hover {
 }
 
 .baseLength {
-    color: rgb(19, 32, 27);
+    color: rgb(46, 190, 135);
     font-weight: bold;
 }
 
 .baseTranslate {
-    color:rgb(18, 44, 25);
+    color: rgb(46, 190, 135);
+    font-weight: bold;
+}
+
+.basePost1 {
+    background: rgb(20, 240, 240);
+    border-radius: 25px;
+}
+
+.baseCode1 {
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.baseDate {
+    font-size: 18px;
+    color: rgb(35, 6, 43);
+    font-weight: bold;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.bold {
     font-weight: bold;
 }
