@@ -268,3 +268,15 @@ a:hover {
 .bold {
     font-weight: bold;
 }
+
+.interrupt {
+    background: rgb(35, 6, 43);
+    color: white;
+    font-weight: bold;
+    border-radius: 25px;
+}
+
+.convoIntro {
+    background: rgb(55, 165, 255);
+    color: black;
+}
