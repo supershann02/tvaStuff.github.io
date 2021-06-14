@@ -270,16 +270,17 @@ a:hover {
 }
 
 .interrupt {
-    background: rgb(35, 6, 43);
-    color: white;
+    background: yellow;
+    color: black;
     font-weight: bold;
     border-radius: 25px;
+    margin-left: 5px;
     width: 50%;
 }
 
 .convoIntro {
-    background: rgb(55, 165, 255);
-    color: black;
+    background: rgb(41, 2, 41);
+    color: white;
     border-radius: 5px;
 }
 
@@ -287,15 +288,60 @@ a:hover {
     background: rgb(134, 3, 3);
     color: black;
     font-size: 16px;
+    border-radius: 5px;
 }
 
 .agentsPart {
     background: grey;
-    color: rgb(33, 32, 39);
+    color: black;
+    font-size: 16px;
+    border-radius: 5px;
 }
 
 .convoExplain {
-    background: rgb(55, 165, 255);
-    color: black;
+    background: rgb(41, 2, 41);
+    color: white;
     border-radius: 5px;
+}
+
+.boldAnswer {
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.convoLink {
+    color: white;
+}
+
+.explainBorder {
+    border: solid 2px rgb(99, 99, 255);
+    border-radius: 5px;
+}
+
+.convoBorder {
+    border: solid 2px rgb(99, 99, 255);
+    border-radius: 5px;
+}
+
+.basePost2 {
+    background: rgb(3, 41, 41);
+    border-radius: 25px;
+    color: black;
+}
+
+.baseCode2 {
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.baseDate2 {
+    font-size: 18px;
+    color: rgb(35, 6, 43);
+    font-weight: bold;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#burnImage {
+    width: 75%;
 }
