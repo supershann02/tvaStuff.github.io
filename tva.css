@@ -326,18 +326,18 @@ a:hover {
 .basePost2 {
     background: rgb(3, 41, 41);
     border-radius: 25px;
-    color: black;
+    color: rgb(224, 243, 245);
 }
 
 .baseCode2 {
-    color: black;
+    color: rgb(224, 243, 245);
     font-weight: bold;
     font-size: 22px;
 }
 
 .baseDate2 {
     font-size: 18px;
-    color: rgb(35, 6, 43);
+    color: rgb(200, 166, 255);
     font-weight: bold;
     font-family: "Lucida Console", "Courier New", monospace;
 }
